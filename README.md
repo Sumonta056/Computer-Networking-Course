@@ -4,6 +4,13 @@
 ## 🎥 Video Tutorials
 #### 🧠 Encoding (Line-Block-Scrambiling) : **([👉Click Here](https://youtube.com/playlist?list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ))**
 
+#### 🧠 Network Layer Introduction : **([👉Click Here](https://youtu.be/rW1jPlYgp_0))**
+
+#### 🧠 Network Layer Playlist Bangla: **([👉Click Here](https://youtube.com/playlist?list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g))**
+
+
+#### 🧠 Network Layer Playlist Neso Academy: **([👉Click Here](https://youtube.com/playlist?list=PLBlnK6fEyqRi7E6_6rLC5N_v50TW6qlrf))**
+
 <hr>
 
 ### Cisco Packet Tracer Tutorials
