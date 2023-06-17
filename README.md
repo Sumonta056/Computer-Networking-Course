@@ -130,7 +130,7 @@ Router(config-subif)#ex
 ```
 
 
-#### Configuration Router ( Port 0/1) For VLan
+#### Configuration Router (Port 0/1) For VLan
 
 ```code
 
