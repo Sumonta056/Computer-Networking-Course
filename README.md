@@ -127,6 +127,8 @@ Router(config-subif)#ip address 192.168.20.1 255.255.255.0
 Router(config-subif)#no sh
 Router(config-subif)#ex
 
+
+
 ```
 
 
