@@ -22,6 +22,12 @@
 - [Static Routing with Connecting 4 Routers Tutorial](https://www.youtube.com/watch?app=desktop&v=rZw_b0wpQ00) - This tutorial explains static routing and shows how to connect four routers in Cisco Packet Tracer.
 - [IPv4 Subnetting using Cisco Packet Tracer Tutorial](https://www.youtube.com/watch?app=desktop&v=fvFr7K5SRlM) - This tutorial covers IPv4 subnetting concepts using Cisco Packet Tracer.
 
+## Subnetting
+
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+
 ## VLan Config Commands
 
 #### Creating VLan
