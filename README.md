@@ -32,6 +32,8 @@
 
 #### Creating VLan
 
+```code
+
 - Switch>en
 - Switch#conf t
 
@@ -47,7 +49,12 @@
 
 - Switch#show vlan
 
+
+```
+
 #### VLan setuping - 10
+
+```code
 
 - Switch#conf t
 - Switch(config)#int fa 0/1
@@ -65,8 +72,12 @@
 
 - Switch#show vlan
 
+```
+
 
 #### VLan setup - 11
+
+```code
 
 - Switch#conf t
 
@@ -93,6 +104,8 @@
 
 
 - Switch#show vlan
+
+```
 
 #### Configuration Router ( Port 0/0) For VLan
 
