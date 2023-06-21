@@ -1,7 +1,7 @@
 # ✍️ Computer-Networking-Course
 
 
-## 🎥 Video Tutorials
+## 🎥 Video Tutorials on Topics
 #### 🧠 Encoding (Line-Block-Scrambiling) : **([👉Click Here](https://youtube.com/playlist?list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ))**
 
 #### 🧠 Network Layer Introduction : **([👉Click Here](https://youtu.be/rW1jPlYgp_0))**
