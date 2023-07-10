@@ -1,0 +1,62 @@
+Switch>en
+Switch#conf t
+
+Switch(config)#vlan 10
+Switch(config-vlan)#name V10
+Switch(config-vlan)#ex
+Switch(config)#vlan 11
+Switch(config-vlan)#name V11
+Switch(config-vlan)#ex	
+Switch(config)#vlan 12
+Switch(config-vlan)#name V12
+Switch(config-vlan)#ex
+
+Switch#show vlan
+
+// vlan setup - 10
+	
+Switch#conf t
+Switch(config)#int fa 0/1
+Switch(config-if)#switchport mode access
+Switch(config-if)#switchport access vlan 10
+Switch(config-if)#ex
+
+Switch(config)#int fa 0/6
+Switch(config-if)#switchport a
+Switch(config-if)#switchport access vlan 10
+
+Switch(config-if)#ex
+Switch(config)#ex
+Switch#
+
+Switch#show vlan
+
+// vlan setup - 11
+
+Switch#conf t
+
+Switch(config)#int fa 0/2
+Switch(config-if)#sw
+Switch(config-if)#switchport m
+Switch(config-if)#switchport mode a
+Switch(config-if)#switchport mode access 
+Switch(config-if)#sw
+Switch(config-if)#switchport a
+Switch(config-if)#switchport access vlan 11
+Switch(config-if)#ex
+Switch(config)#int fa 0/5
+Switch(config-if)#sw
+Switch(config-if)#switchport m
+Switch(config-if)#switchport mode a
+Switch(config-if)#switchport mode access 
+Switch(config-if)#sw
+Switch(config-if)#switchport a
+Switch(config-if)#switchport access vlan 11
+Switch(config-if)#ex
+Switch(config)#ex
+Switch#
+
+
+Switch#show vlan
+
+
